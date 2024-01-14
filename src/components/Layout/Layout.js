@@ -1,7 +1,10 @@
+import './Layout.css';
 export function Layout () {
   return(
     <div className="Layout">
-      <h1>Hello world!</h1>
+      <div className='background'>
+
+      </div>
     </div>
   )
 }
